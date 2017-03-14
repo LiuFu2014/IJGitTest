@@ -5,6 +5,6 @@ package com.hotmail.liufu_china.helloworld;
  */
 public class HelloWorld {
     public static  void main (String[] args){
-        System.out.println("HelloWorld!合并111333");
+        System.out.println("HelloWorld!合并555");
     }
 }
