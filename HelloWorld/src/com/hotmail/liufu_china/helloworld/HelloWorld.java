@@ -5,6 +5,6 @@ package com.hotmail.liufu_china.helloworld;
  */
 public class HelloWorld {
     public static  void main (String[] args){
-        System.out.println("HelloWorld!来至GitHub2");
+        System.out.println("HelloWorld!来至GitHub22");
     }
 }
